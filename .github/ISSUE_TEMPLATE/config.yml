@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: CircleCI Discuss Forum
+    url: https://discuss.circleci.com/
+    about: Please ask and answer questions from the CircleCI community
+  - name: CircleCI Support Contact Form
+    url: https://support.circleci.com/hc/requests/new
+    about: Please file requests with our Support team here
